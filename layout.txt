@@ -1,0 +1,9 @@
+my_project/
+│── .venv/                # Virtual environment (auto-created)
+│── src/                  # Your Python source code
+│   └── main.py
+│── requirements.txt       # Dependencies
+│── .gitignore             # Ignore venv, cache, etc.
+│── .vscode/
+│   ├── settings.json      # Auto-select interpreter
+│   └── tasks.json         # Bootstrap venv task
